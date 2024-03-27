@@ -9,7 +9,7 @@ Realistic Terrain Generation: Utilize real geographical data to generate lifelik
 
 Flexibility and Customization: Tailor terrains to your exact specifications with options for terrain sculpting, texture application, and shader customization.
 
-Integration with Houdini and Unreal Engine: Seamlessly integrate TerrainGen with Houdini and Houdini Engine for Unreal Engine, enabling easy import of heightmaps and streamlined workflow.
+Integration with Houdini and Unreal Engine: Seamlessly integrate Worold Weaver with Python, Houdini and Houdini Engine for Unreal Engine, enabling easy import of heightmaps and streamlined workflow.
 
 Automated Processes: Simplify the terrain generation process with automated workflows, allowing users to input coordinates and preferences and receive optimized results with minimal manual intervention.
 
