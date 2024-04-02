@@ -1,0 +1,5 @@
+[0328/180532.293:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0329/172124.946:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 7
+[0331/152820.211:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 19
+[0402/030005.521:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -103
+[0402/062355.901:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -103
