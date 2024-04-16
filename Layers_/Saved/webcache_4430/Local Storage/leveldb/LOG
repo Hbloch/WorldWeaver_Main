@@ -1,29 +1,6 @@
-2024/03/28-18:03:32.545 9470 Creating DB C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/03/28-18:03:32.554 9470 Reusing MANIFEST C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/29-17:21:34.442 1e5c Level-0 table #5: started
-2024/03/29-17:21:34.445 1e5c Level-0 table #5: 21171 bytes OK
-2024/03/29-17:21:34.447 1e5c Delete type=0 #3
-2024/03/31-16:53:33.976 a270 Level-0 table #7: started
-2024/03/31-16:53:33.978 a270 Level-0 table #7: 20367 bytes OK
-2024/03/31-16:53:33.980 a270 Delete type=0 #4
-2024/04/01-15:32:36.355 73bc Level-0 table #9: started
-2024/04/01-15:32:36.356 73bc Level-0 table #9: 21589 bytes OK
-2024/04/01-15:32:36.357 73bc Delete type=0 #6
-2024/04/02-06:24:03.218 73bc Level-0 table #11: started
-2024/04/02-06:24:03.225 73bc Level-0 table #11: 18066 bytes OK
-2024/04/02-06:24:03.226 73bc Delete type=0 #8
-2024/04/02-10:52:36.269 19c Level-0 table #13: started
-2024/04/02-10:52:36.271 19c Level-0 table #13: 19812 bytes OK
-2024/04/02-10:52:36.272 19c Delete type=0 #10
-2024/04/02-10:54:27.082 a330 Level-0 table #15: started
-2024/04/02-10:54:27.093 a330 Level-0 table #15: 20825 bytes OK
-2024/04/02-10:54:27.094 a330 Delete type=0 #12
-2024/04/02-10:54:27.096 a330 Compacting 4@0 + 1@1 files
-2024/04/02-10:54:27.102 a330 Generated table #16@0: 9 keys, 8624 bytes
-2024/04/02-10:54:27.102 a330 Compacted 4@0 + 1@1 files => 8624 bytes
-2024/04/02-10:54:27.102 a330 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/04/02-10:54:27.103 a330 Delete type=2 #7
-2024/04/02-10:54:27.103 a330 Delete type=2 #9
-2024/04/02-10:54:27.103 a330 Delete type=2 #11
-2024/04/02-10:54:27.103 a330 Delete type=2 #13
-2024/04/02-10:54:27.103 a330 Delete type=2 #15
+2024/04/10-10:17:26.532 6de0 Reusing MANIFEST C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/04/10-10:17:26.537 6de0 Recovering log #14
+2024/04/10-10:17:26.538 6de0 Reusing old log C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\Local Storage\leveldb/000014.log 
+2024/04/10-10:36:55.440 4fe8 Level-0 table #19: started
+2024/04/10-10:36:55.457 4fe8 Level-0 table #19: 18809 bytes OK
+2024/04/10-10:36:55.460 4fe8 Delete type=0 #14

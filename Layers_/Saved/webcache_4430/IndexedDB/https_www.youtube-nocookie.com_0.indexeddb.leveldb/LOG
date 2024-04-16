@@ -1,3 +1,8 @@
-2024/03/30-15:12:14.539 96c8 Reusing MANIFEST C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/03/30-15:12:14.539 96c8 Recovering log #4
-2024/03/30-15:12:14.540 96c8 Reusing old log C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/10-10:17:33.016 7688 Reusing MANIFEST C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/10-10:17:33.017 7688 Recovering log #4
+2024/04/10-10:17:33.018 7688 Reusing old log C:/Users/G.durruty/Documents/GitHub/WorldWeaver_Main/Layers_/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/10-10:36:56.974 70cc Level-0 table #8: started
+2024/04/10-10:36:56.975 70cc Level-0 table #8: 0 bytes OK
+2024/04/10-10:36:56.976 70cc Delete type=0 #4
+2024/04/10-10:36:56.978 70cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/10-10:36:56.978 70cc Manual compaction at level-1 from (begin) .. (end); will stop at (end)
