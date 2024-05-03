@@ -1,0 +1,170 @@
+2024-05-02 19:59:15,480 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:15,481 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:15,508 - INFO - Finished indexing, starting commit
+2024-05-02 19:59:15,508 - INFO - Trying to merge (optimize=False)
+2024-05-02 19:59:15,508 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 19:59:15,519 - INFO - Found merges ()
+2024-05-02 19:59:15,519 - INFO - Syncing the new TOC to disk
+2024-05-02 19:59:15,519 - INFO - Syncing TOC to storage
+2024-05-02 19:59:26,251 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:26,251 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:26,278 - INFO - Finished indexing, starting commit
+2024-05-02 19:59:26,278 - INFO - Trying to merge (optimize=False)
+2024-05-02 19:59:26,278 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 19:59:26,279 - INFO - Found merges ()
+2024-05-02 19:59:26,279 - INFO - Syncing the new TOC to disk
+2024-05-02 19:59:26,279 - INFO - Syncing TOC to storage
+2024-05-02 19:59:45,585 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:45,586 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 19:59:45,614 - INFO - Finished indexing, starting commit
+2024-05-02 19:59:45,614 - INFO - Trying to merge (optimize=False)
+2024-05-02 19:59:45,614 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 19:59:45,614 - INFO - Found merges ()
+2024-05-02 19:59:45,614 - INFO - Syncing the new TOC to disk
+2024-05-02 19:59:45,614 - INFO - Syncing TOC to storage
+2024-05-02 20:00:02,193 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:00:02,193 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:00:02,220 - INFO - Finished indexing, starting commit
+2024-05-02 20:00:02,220 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:00:02,220 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:00:02,220 - INFO - Found merges ()
+2024-05-02 20:00:02,220 - INFO - Syncing the new TOC to disk
+2024-05-02 20:00:02,220 - INFO - Syncing TOC to storage
+2024-05-02 20:00:05,608 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:00:05,608 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:00:05,669 - INFO - Finished indexing, starting commit
+2024-05-02 20:00:05,669 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:00:05,669 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:00:05,669 - INFO - Found merges ()
+2024-05-02 20:00:05,669 - INFO - Syncing the new TOC to disk
+2024-05-02 20:00:05,669 - INFO - Syncing TOC to storage
+2024-05-02 20:01:13,051 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:01:13,052 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:01:13,078 - INFO - Finished indexing, starting commit
+2024-05-02 20:01:13,078 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:01:13,078 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:01:13,078 - INFO - Found merges ()
+2024-05-02 20:01:13,078 - INFO - Syncing the new TOC to disk
+2024-05-02 20:01:13,078 - INFO - Syncing TOC to storage
+2024-05-02 20:04:04,818 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:04:04,819 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:04:04,879 - INFO - Finished indexing, starting commit
+2024-05-02 20:04:04,879 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:04:04,879 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:04:04,879 - INFO - Found merges ()
+2024-05-02 20:04:04,879 - INFO - Syncing the new TOC to disk
+2024-05-02 20:04:04,879 - INFO - Syncing TOC to storage
+2024-05-02 20:04:18,813 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:04:18,814 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:04:18,841 - INFO - Finished indexing, starting commit
+2024-05-02 20:04:18,841 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:04:18,841 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:04:18,841 - INFO - Found merges ()
+2024-05-02 20:04:18,841 - INFO - Syncing the new TOC to disk
+2024-05-02 20:04:18,841 - INFO - Syncing TOC to storage
+2024-05-02 20:05:06,098 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:06,099 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:06,126 - INFO - Finished indexing, starting commit
+2024-05-02 20:05:06,126 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:05:06,126 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:05:06,126 - INFO - Found merges ()
+2024-05-02 20:05:06,126 - INFO - Syncing the new TOC to disk
+2024-05-02 20:05:06,126 - INFO - Syncing TOC to storage
+2024-05-02 20:05:40,993 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:40,993 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:41,020 - INFO - Finished indexing, starting commit
+2024-05-02 20:05:41,020 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:05:41,020 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:05:41,020 - INFO - Found merges ()
+2024-05-02 20:05:41,020 - INFO - Syncing the new TOC to disk
+2024-05-02 20:05:41,020 - INFO - Syncing TOC to storage
+2024-05-02 20:05:53,745 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:53,745 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:53,772 - INFO - Finished indexing, starting commit
+2024-05-02 20:05:53,772 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:05:53,772 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:05:53,772 - INFO - Found merges ()
+2024-05-02 20:05:53,772 - INFO - Syncing the new TOC to disk
+2024-05-02 20:05:53,772 - INFO - Syncing TOC to storage
+2024-05-02 20:05:56,459 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:56,459 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:05:56,486 - INFO - Finished indexing, starting commit
+2024-05-02 20:05:56,486 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:05:56,486 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:05:56,486 - INFO - Found merges ()
+2024-05-02 20:05:56,486 - INFO - Syncing the new TOC to disk
+2024-05-02 20:05:56,486 - INFO - Syncing TOC to storage
+2024-05-02 20:06:03,767 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:03,768 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:03,794 - INFO - Finished indexing, starting commit
+2024-05-02 20:06:03,794 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:06:03,794 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:06:03,795 - INFO - Found merges ()
+2024-05-02 20:06:03,795 - INFO - Syncing the new TOC to disk
+2024-05-02 20:06:03,795 - INFO - Syncing TOC to storage
+2024-05-02 20:06:05,404 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:05,404 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:05,431 - INFO - Finished indexing, starting commit
+2024-05-02 20:06:05,431 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:06:05,431 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:06:05,431 - INFO - Found merges ()
+2024-05-02 20:06:05,431 - INFO - Syncing the new TOC to disk
+2024-05-02 20:06:05,431 - INFO - Syncing TOC to storage
+2024-05-02 20:06:33,567 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:33,568 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:33,595 - INFO - Finished indexing, starting commit
+2024-05-02 20:06:33,595 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:06:33,595 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:06:33,595 - INFO - Found merges ()
+2024-05-02 20:06:33,595 - INFO - Syncing the new TOC to disk
+2024-05-02 20:06:33,595 - INFO - Syncing TOC to storage
+2024-05-02 20:06:35,188 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:35,188 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:06:35,245 - INFO - Finished indexing, starting commit
+2024-05-02 20:06:35,245 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:06:35,245 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:06:35,246 - INFO - Found merges ()
+2024-05-02 20:06:35,246 - INFO - Syncing the new TOC to disk
+2024-05-02 20:06:35,246 - INFO - Syncing TOC to storage
+2024-05-02 20:07:20,144 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:07:20,144 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:07:20,171 - INFO - Finished indexing, starting commit
+2024-05-02 20:07:20,171 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:07:20,171 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:07:20,171 - INFO - Found merges ()
+2024-05-02 20:07:20,171 - INFO - Syncing the new TOC to disk
+2024-05-02 20:07:20,171 - INFO - Syncing TOC to storage
+2024-05-02 20:07:21,875 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:07:21,875 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:07:21,903 - INFO - Finished indexing, starting commit
+2024-05-02 20:07:21,903 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:07:21,903 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:07:21,903 - INFO - Found merges ()
+2024-05-02 20:07:21,903 - INFO - Syncing the new TOC to disk
+2024-05-02 20:07:21,903 - INFO - Syncing TOC to storage
+2024-05-02 20:08:11,984 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:11,984 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:12,366 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:12,367 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:12,369 - INFO - Finished indexing, starting commit
+2024-05-02 20:08:12,369 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:08:12,370 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:08:12,370 - INFO - Found merges ()
+2024-05-02 20:08:12,370 - INFO - Syncing the new TOC to disk
+2024-05-02 20:08:12,370 - INFO - Syncing TOC to storage
+2024-05-02 20:08:16,582 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:16,582 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:16,610 - INFO - Finished indexing, starting commit
+2024-05-02 20:08:16,610 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:08:16,610 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:08:16,610 - INFO - Found merges ()
+2024-05-02 20:08:16,610 - INFO - Syncing the new TOC to disk
+2024-05-02 20:08:16,610 - INFO - Syncing TOC to storage
+2024-05-02 20:08:18,166 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:18,167 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-02 20:08:18,194 - INFO - Finished indexing, starting commit
+2024-05-02 20:08:18,195 - INFO - Trying to merge (optimize=False)
+2024-05-02 20:08:18,195 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-02 20:08:18,195 - INFO - Found merges ()
+2024-05-02 20:08:18,195 - INFO - Syncing the new TOC to disk
+2024-05-02 20:08:18,195 - INFO - Syncing TOC to storage
