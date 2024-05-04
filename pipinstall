@@ -1,0 +1,44 @@
+import subprocess
+import hou
+
+def check_pip_installed():
+    """Check if pip is installed and return its version."""
+    try:
+        result = subprocess.run(["python", "-m", "pip", "--version"], capture_output=True, text=True, check=True)
+        pip_version = result.stdout.split()[1]
+        return True, pip_version
+    except subprocess.CalledProcessError:
+        return False, None
+
+def version_less_than(current_version, check_version="24.0"):
+    """Check if the current version is less than the check version."""
+    current_version_tuple = tuple(map(int, current_version.split('.')))
+    check_version_tuple = tuple(map(int, check_version.split('.')))
+    return current_version_tuple < check_version_tuple
+
+def install_or_upgrade_pip():
+    pip_installed, pip_version = check_pip_installed()
+    
+    try:
+        if not pip_installed:
+            hou.ui.displayMessage("pip is not installed. Installing now...")
+            # Vous devez gérer l'installation ici
+            # get_pip.main()  # Supposons que cette fonction est définie ailleurs
+            pip_installed, _ = check_pip_installed()
+            if pip_installed:
+                hou.ui.displayMessage("pip installed successfully.")
+            else:
+                hou.ui.displayMessage("Failed to install pip.", severity=hou.severityType.Error)
+                return
+        else:
+            if version_less_than(pip_version):
+                subprocess.run(["python", "-m", "pip", "install", "--upgrade", "pip"], check=True)
+                _, new_pip_version = check_pip_installed()
+                if version_less_than(new_pip_version, "24.0"):
+                    hou.ui.displayMessage(f"pip upgraded successfully to version {new_pip_version}.")
+                else:
+                    hou.ui.displayMessage(f"Failed to upgrade pip.", severity=hou.severityType.Error)
+            else:
+                hou.ui.displayMessage(f"Current version of pip ({pip_version}) is 24.0 or higher. No action required.")
+    except Exception as e:
+        hou.ui.displayMessage(f"An error occurred: {str(e)}", severity=hou.severityType.Error)
