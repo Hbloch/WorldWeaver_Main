@@ -244,3 +244,61 @@
 2024-05-04 15:21:31,728 - INFO - Found merges ()
 2024-05-04 15:21:31,728 - INFO - Syncing the new TOC to disk
 2024-05-04 15:21:31,728 - INFO - Syncing TOC to storage
+2024-05-09 15:52:11,677 - INFO - Finished indexing, starting commit
+2024-05-09 15:52:11,678 - INFO - Flushing current segment
+2024-05-09 15:52:11,678 - INFO - Flushing terms in 16 fields
+2024-05-09 15:52:11,678 - INFO - Flushing 246 posts in 'category' field
+2024-05-09 15:52:11,679 - INFO - Flushing 23977 posts in 'content' field
+2024-05-09 15:52:11,814 - INFO - Flushing 240 posts in 'context' field
+2024-05-09 15:52:11,815 - INFO - Flushing 13691 posts in 'grams' field
+2024-05-09 15:52:11,883 - INFO - Flushing 240 posts in 'instant' field
+2024-05-09 15:52:11,884 - INFO - Flushing 246 posts in 'isindex' field
+2024-05-09 15:52:11,884 - INFO - Flushing 246 posts in 'lang' field
+2024-05-09 15:52:11,884 - INFO - Flushing 222 posts in 'library_path' field
+2024-05-09 15:52:11,884 - INFO - Flushing 176 posts in 'links' field
+2024-05-09 15:52:11,886 - INFO - Flushing 1968 posts in 'modified' field
+2024-05-09 15:52:11,889 - INFO - Flushing 246 posts in 'path' field
+2024-05-09 15:52:11,891 - INFO - Flushing 246 posts in 'sortkey' field
+2024-05-09 15:52:11,892 - INFO - Flushing 484 posts in 'tags' field
+2024-05-09 15:52:11,893 - INFO - Flushing 807 posts in 'title' field
+2024-05-09 15:52:11,901 - INFO - Flushing 240 posts in 'type' field
+2024-05-09 15:52:11,901 - INFO - Flushing 95 posts in 'version' field
+2024-05-09 15:52:11,904 - INFO - Flushed terms in 0.226065 s
+2024-05-09 15:52:11,906 - INFO - Adding <X1Segment 000002 246/246 913.97KB> to segments
+2024-05-09 15:52:11,906 - INFO - Trying to merge (optimize=False)
+2024-05-09 15:52:11,906 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-09 15:52:11,906 - INFO - Found merges ()
+2024-05-09 15:52:11,906 - INFO - Trying to merge (optimize=False)
+2024-05-09 15:52:11,906 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-09 15:52:11,906 - INFO - Found merges ()
+2024-05-09 15:52:11,906 - INFO - Syncing the new TOC to disk
+2024-05-09 15:52:11,906 - INFO - Syncing TOC to storage
+2024-05-09 15:53:34,560 - INFO - Finished indexing, starting commit
+2024-05-09 15:53:34,560 - INFO - Flushing current segment
+2024-05-09 15:53:34,560 - INFO - Flushing terms in 16 fields
+2024-05-09 15:53:34,560 - INFO - Flushing 246 posts in 'category' field
+2024-05-09 15:53:34,561 - INFO - Flushing 23977 posts in 'content' field
+2024-05-09 15:53:34,712 - INFO - Flushing 240 posts in 'context' field
+2024-05-09 15:53:34,712 - INFO - Flushing 13691 posts in 'grams' field
+2024-05-09 15:53:34,780 - INFO - Flushing 240 posts in 'instant' field
+2024-05-09 15:53:34,782 - INFO - Flushing 246 posts in 'isindex' field
+2024-05-09 15:53:34,782 - INFO - Flushing 246 posts in 'lang' field
+2024-05-09 15:53:34,782 - INFO - Flushing 222 posts in 'library_path' field
+2024-05-09 15:53:34,783 - INFO - Flushing 176 posts in 'links' field
+2024-05-09 15:53:34,783 - INFO - Flushing 1968 posts in 'modified' field
+2024-05-09 15:53:34,786 - INFO - Flushing 246 posts in 'path' field
+2024-05-09 15:53:34,788 - INFO - Flushing 246 posts in 'sortkey' field
+2024-05-09 15:53:34,789 - INFO - Flushing 484 posts in 'tags' field
+2024-05-09 15:53:34,790 - INFO - Flushing 807 posts in 'title' field
+2024-05-09 15:53:34,798 - INFO - Flushing 240 posts in 'type' field
+2024-05-09 15:53:34,798 - INFO - Flushing 95 posts in 'version' field
+2024-05-09 15:53:34,802 - INFO - Flushed terms in 0.242061 s
+2024-05-09 15:53:34,803 - INFO - Adding <X1Segment 000002 246/246 913.97KB> to segments
+2024-05-09 15:53:34,803 - INFO - Trying to merge (optimize=False)
+2024-05-09 15:53:34,803 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-09 15:53:34,803 - INFO - Found merges ()
+2024-05-09 15:53:34,803 - INFO - Trying to merge (optimize=False)
+2024-05-09 15:53:34,804 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-09 15:53:34,804 - INFO - Found merges ()
+2024-05-09 15:53:34,804 - INFO - Syncing the new TOC to disk
+2024-05-09 15:53:34,804 - INFO - Syncing TOC to storage
