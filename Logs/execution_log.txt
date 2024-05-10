@@ -1,0 +1,72 @@
+2024-05-09 17:11:32 - INFO - Execution Log - 2024-05-09 17:11:32
+2024-05-09 17:11:32 - INFO - Script Name: 
+2024-05-09 17:11:32 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:11:32 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:11:32 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:11:32 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:11:52 - INFO - Execution Log - 2024-05-09 17:11:52
+2024-05-09 17:11:52 - INFO - Execution Log - 2024-05-09 17:11:52
+2024-05-09 17:11:52 - INFO - Script Name: 
+2024-05-09 17:11:52 - INFO - Script Name: 
+2024-05-09 17:11:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:11:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:11:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:11:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:11:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:11:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:11:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:11:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:19:58 - INFO - Execution Log - 2024-05-09 17:19:58
+2024-05-09 17:19:58 - INFO - Script Name: 
+2024-05-09 17:19:58 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:19:58 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-09 17:19:58 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:19:58 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-09 17:29:46 - INFO - Execution Log - 2024-05-09 17:29:46
+2024-05-09 17:29:46 - INFO - Execution Log - 2024-05-09 17:29:46
+2024-05-09 17:29:46 - INFO - Execution Log - 2024-05-09 17:29:46
+2024-05-09 17:29:46 - INFO - Script Name: 
+2024-05-09 17:29:46 - INFO - Script Name: 
+2024-05-09 17:29:46 - INFO - Script Name: 
+2024-05-09 17:29:46 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:29:46 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:29:46 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:29:46 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:29:46 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:29:46 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 17:29:46 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:29:46 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:29:46 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 17:29:46 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:29:46 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:29:46 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 17:57:03 - INFO - Execution Log - 2024-05-09 17:57:03
+2024-05-09 17:57:03 - INFO - Script Name: 
+2024-05-09 17:57:03 - INFO - Python Version: 3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 17:57:03 - INFO - Python Executable: C:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\UnrealEditor.exe
+2024-05-09 17:57:03 - INFO - Python Environment: ../../../Engine/Binaries/ThirdParty/Python3/Win64
+2024-05-09 17:57:03 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 19:21:52 - INFO - Execution Log - 2024-05-09 19:21:52
+2024-05-09 19:21:52 - INFO - Execution Log - 2024-05-09 19:21:52
+2024-05-09 19:21:52 - INFO - Execution Log - 2024-05-09 19:21:52
+2024-05-09 19:21:52 - INFO - Execution Log - 2024-05-09 19:21:52
+2024-05-09 19:21:52 - INFO - Script Name: 
+2024-05-09 19:21:52 - INFO - Script Name: 
+2024-05-09 19:21:52 - INFO - Script Name: 
+2024-05-09 19:21:52 - INFO - Script Name: 
+2024-05-09 19:21:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 19:21:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 19:21:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 19:21:52 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-09 19:21:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 19:21:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 19:21:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 19:21:52 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\HARS.exe
+2024-05-09 19:21:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 19:21:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 19:21:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 19:21:52 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-09 19:21:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 19:21:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 19:21:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
+2024-05-09 19:21:52 - INFO - Operating System: Windows-10-10.0.22631-SP0
