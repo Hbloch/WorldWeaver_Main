@@ -99,3 +99,24 @@ def main():
         import_to_unreal(str(output_file.resolve()), "/Game/DownloadedImages")
         
 main()
+
+
+"""import unreal
+
+def import_to_unreal(file_path, destination_path):
+    task = unreal.AssetImportTask()
+    task.filename = file_path
+    task.destination_path = destination_path
+    task.automated = True
+
+    unreal.AssetToolsHelpers.get_asset_tools().import_asset_tasks([task])
+
+def main():
+    # ... (rest of your code)
+
+    if error_occurred:
+        log_message("Do you want to check the log file for errors?", severity='warning')
+    else:
+        log_message(f"Download completed. File saved at: {output_file.resolve()}")
+        import_to_unreal(str(output_file.resolve()), "/Game/DownloadedImages")
+###"""
