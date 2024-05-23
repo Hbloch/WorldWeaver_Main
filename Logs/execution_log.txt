@@ -82,3 +82,129 @@
 2024-05-23 13:25:42 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
 2024-05-23 13:25:42 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
 2024-05-23 13:25:42 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:34:32 - INFO - Execution Log - 2024-05-23 13:34:32
+2024-05-23 13:34:32 - INFO - Script Name: 
+2024-05-23 13:34:32 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:34:32 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:34:32 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:34:32 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:36:13 - INFO - Execution Log - 2024-05-23 13:36:13
+2024-05-23 13:36:13 - INFO - Execution Log - 2024-05-23 13:36:13
+2024-05-23 13:36:13 - INFO - Script Name: 
+2024-05-23 13:36:13 - INFO - Script Name: 
+2024-05-23 13:36:13 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:36:13 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:36:13 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:36:13 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:36:13 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:36:13 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:36:13 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:36:13 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:38:30 - INFO - Execution Log - 2024-05-23 13:38:30
+2024-05-23 13:38:30 - INFO - Execution Log - 2024-05-23 13:38:30
+2024-05-23 13:38:30 - INFO - Execution Log - 2024-05-23 13:38:30
+2024-05-23 13:38:30 - INFO - Script Name: 
+2024-05-23 13:38:30 - INFO - Script Name: 
+2024-05-23 13:38:30 - INFO - Script Name: 
+2024-05-23 13:38:30 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:38:30 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:38:30 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:38:30 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:38:30 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:38:30 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:38:30 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:38:30 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:38:30 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:38:30 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:38:30 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:38:30 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:39:12 - INFO - Execution Log - 2024-05-23 13:39:12
+2024-05-23 13:39:12 - INFO - Execution Log - 2024-05-23 13:39:12
+2024-05-23 13:39:12 - INFO - Execution Log - 2024-05-23 13:39:12
+2024-05-23 13:39:12 - INFO - Execution Log - 2024-05-23 13:39:12
+2024-05-23 13:39:12 - INFO - Script Name: 
+2024-05-23 13:39:12 - INFO - Script Name: 
+2024-05-23 13:39:12 - INFO - Script Name: 
+2024-05-23 13:39:12 - INFO - Script Name: 
+2024-05-23 13:39:12 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:39:12 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:39:12 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:39:12 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:39:12 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:39:12 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:39:12 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:39:12 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:39:12 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:39:12 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:39:12 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:39:12 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:39:12 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:39:12 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:39:12 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:39:12 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:22 - INFO - Execution Log - 2024-05-23 13:40:22
+2024-05-23 13:40:22 - INFO - Execution Log - 2024-05-23 13:40:22
+2024-05-23 13:40:22 - INFO - Execution Log - 2024-05-23 13:40:22
+2024-05-23 13:40:22 - INFO - Execution Log - 2024-05-23 13:40:22
+2024-05-23 13:40:22 - INFO - Execution Log - 2024-05-23 13:40:22
+2024-05-23 13:40:22 - INFO - Script Name: 
+2024-05-23 13:40:22 - INFO - Script Name: 
+2024-05-23 13:40:22 - INFO - Script Name: 
+2024-05-23 13:40:22 - INFO - Script Name: 
+2024-05-23 13:40:22 - INFO - Script Name: 
+2024-05-23 13:40:22 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:22 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:22 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:22 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:22 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:22 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:22 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:22 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:22 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:22 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:22 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:22 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:22 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:22 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:22 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:22 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:22 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:22 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:22 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:22 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Execution Log - 2024-05-23 13:40:38
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Script Name: 
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Version: 3.9.10 (main, Jan 26 2023, 21:56:03) [MSC v.1929 64 bit (AMD64)]
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Executable: C:\Program Files\Side Effects Software\Houdini 19.5.959\bin\houdini.exe
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Python Environment: C:/PROGRA~1/Side Effects Software/Houdini 19.5.959/python39
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
+2024-05-23 13:40:38 - INFO - Operating System: Windows-10-10.0.22631
