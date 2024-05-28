@@ -503,3 +503,41 @@
 2024-05-16 19:44:40,572 - INFO - Found merges ()
 2024-05-16 19:44:40,572 - INFO - Syncing the new TOC to disk
 2024-05-16 19:44:40,572 - INFO - Syncing TOC to storage
+2024-05-27 14:50:57,608 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.61309382630021&north=38.62210217022306&west=-99.26472713781426&east=-99.25324486218572&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 14:54:32,490 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=44.58401276055734&north=44.59673923232352&west=-104.7241818858888&east=-104.7063721141112&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 14:55:29,447 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-27 14:55:29,447 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-27 14:55:29,475 - INFO - Finished indexing, starting commit
+2024-05-27 14:55:29,475 - INFO - Trying to merge (optimize=False)
+2024-05-27 14:55:29,475 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-27 14:55:29,475 - INFO - Found merges ()
+2024-05-27 14:55:29,475 - INFO - Syncing the new TOC to disk
+2024-05-27 14:55:29,475 - INFO - Syncing TOC to storage
+2024-05-27 14:55:31,738 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-27 14:55:31,738 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-27 14:55:31,797 - INFO - Finished indexing, starting commit
+2024-05-27 14:55:31,797 - INFO - Trying to merge (optimize=False)
+2024-05-27 14:55:31,798 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-27 14:55:31,798 - INFO - Found merges ()
+2024-05-27 14:55:31,798 - INFO - Syncing the new TOC to disk
+2024-05-27 14:55:31,798 - INFO - Syncing TOC to storage
+2024-05-27 14:56:31,950 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=44.58401276055734&north=44.59673923232352&west=-104.7241818858888&east=-104.7063721141112&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 15:01:40,193 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=44.580302756406674&north=44.59302923647423&west=-104.72380631945946&east=-104.70599768054053&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 15:05:33,420 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=34.303859568799005&north=34.31287442787831&west=-84.65547885313099&east=-84.64461514686901&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 15:10:59,777 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=34.303859568799005&north=34.31287442787831&west=-84.65547885313099&east=-84.64461514686901&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 15:27:02,089 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.6006088166637&north=38.609617179859896&west=-79.74481914291354&east=-79.73333885708647&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 17:31:16,595 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.37224464057072&north=38.38125335595908&west=-80.26620705376544&east=-80.25476294623456&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 20:55:22,580 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.37224464057072&north=38.38125335595908&west=-80.26620705376544&east=-80.25476294623456&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-27 20:58:02,259 - ERROR - Connection error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2024-05-28 09:09:20,420 - ERROR - HTTP error occurred: 500 Server Error: 500 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.36469093790443&north=38.38483504474484&west=-80.27525555137011&east=-80.2496664486299&outputFormat=GTiff&API_Key=ee8c4f4ac91d78b34c0baf3049e5fe4d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: The National Map server was down </error>
+2024-05-28 09:25:57,376 - ERROR - HTTP error occurred: 401 Client Error: 401 for url: https://portal.opentopography.org/API/usgsdem?datasetName=USGS1m&south=38.36469093790443&north=38.38483504474484&west=-80.27525555137011&east=-80.2496664486299&outputFormat=GTiff&API_Key=24fdf6bf4c36d7d24b2043d05a08f17d - Response: <?xml version="1.0" encoding="UTF-8" standalone="yes"?><error>Error: API access to USGS1m is restricted for non-academics. Academics can request access via the OpenTopography portal. Non-academics can enquire about enterprise keys by contacting OpenTopography</error>
+2024-05-28 10:08:21,601 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-28 10:08:21,601 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-28 10:08:21,669 - INFO - Applying deletion queries (Term('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-28 10:08:21,670 - INFO - Applying deletion queries (Prefix('path', '/nodes/obj/t.guillanton::dev--WorldWeaver_MainTest-1.13#'),) to segment <X1Segment 000002 246/246 913.97KB>
+2024-05-28 10:08:21,672 - INFO - Finished indexing, starting commit
+2024-05-28 10:08:21,672 - INFO - Trying to merge (optimize=False)
+2024-05-28 10:08:21,672 - INFO - Looking for merges in [<X1Segment 000002 246/246 913.97KB>]
+2024-05-28 10:08:21,672 - INFO - Found merges ()
+2024-05-28 10:08:21,672 - INFO - Syncing the new TOC to disk
+2024-05-28 10:08:21,672 - INFO - Syncing TOC to storage
